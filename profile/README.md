@@ -2,7 +2,7 @@
 
 **We help IT leaders get the most out of Apple — at scale.**
 
-Mobidelio is an IT services and consulting firm specializing in enterprise Apple environments across Latin America. We work alongside IT teams to deploy, manage, and secure Mac, iPad, and iPhone fleets, integrating with the Microsoft and security platforms organizations already run.
+Mobidelio is an IT services and consulting firm specializing in enterprise Apple environments, serving clients across Latin America and worldwide. We work alongside IT teams to deploy, manage, and secure Mac, iPad, and iPhone fleets within complex, cross-platform environments, integrating with the identity, security, and management platforms organizations already run.
 
 ---
 
@@ -17,8 +17,8 @@ Deployment, management, and security for Apple devices, from technical readiness
 **Employee Digital Services**
 Services that reduce friction and improve the day-to-day experience of employees using Apple devices.
 
-**MobileNow Platform**
-Our Jamf-powered managed service for Apple lifecycle management, zero-touch onboarding, security, and compliance.
+**Apple Operations as a Platform**
+MobileNow is our Jamf-powered platform and managed service for Apple lifecycle management, zero-touch onboarding, security, and compliance.
 
 ---
 
