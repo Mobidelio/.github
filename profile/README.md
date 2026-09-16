@@ -22,27 +22,15 @@ Our Jamf-powered managed service for Apple lifecycle management, zero-touch onbo
 
 ---
 
-## How we work
+## Disclaimer
 
-- **Apple-native expertise.** We manage Apple devices the way Apple designed them to be managed.
-- **Extend, don't replace.** We build on your existing identity, security, and management investments.
-- **Microsoft integration.** Apple devices fit cleanly into Entra ID, Intune, and enterprise security frameworks.
-- **Governance first.** Clear policies, measured employee experience, and a roadmap before tooling.
-- **Cost control.** Native Apple knowledge reduces rework, support load, and total cost of ownership.
-
----
-
-## Who we serve
-
-Organizations from startups to large enterprises, including K-12 and higher education, in energy and mining, banking, healthcare, retail, technology and media, and travel and transportation.
-
-We operate primarily in **Chile, Peru, and Colombia**, with presence in **Argentina, Uruguay, and Paraguay**.
+ANY SOFTWARE OR PROJECT UNDER THIS ORGANIZATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS, MOBIDELIO, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
 ## About this organization
 
-This organization hosts public resources from Mobidelio Professional Services. Scripts and tooling delivered as part of MobileNow Management are licensed to subscribers and are not published here.
+This organization hosts public resources from Mobidelio Professional Services. Each repository states its own license. Scripts and tooling delivered as part of MobileNow Management are licensed to subscribers and are not published here.
 
 ---
 
